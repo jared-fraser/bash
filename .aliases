@@ -22,7 +22,7 @@ alias reload="source ~/.bash_profile"
 
 alias downloads="cd ~/Downloads"
 alias desktop="cd ~/Desktop"
-alias work="cd ~/Work"
+alias repos="cd ~/Repositories"
 alias home="cd ~"
 alias g="git"
 alias j="jobs"
