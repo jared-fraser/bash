@@ -21,8 +21,6 @@ export LANG="en_US"
 #############################################################################
 
 export PATH="/Users/jaredfraser/.gem/ruby/2.0.0/bin:$(brew --prefix coreutils)/libexec/gnubin:/usr/local/bin:/usr/local/sbin:$(brew --prefix homebrew/php/php55)/bin:$PATH"
-export APPLICATION_ENV=development
-export HOMEBREW_GITHUB_API_TOKEN=c30165e067542b448c8237d2ee6919d6724608b6
 
 if [ -f `brew --prefix`/etc/bash_completion ]; then
     . `brew --prefix`/etc/bash_completion
